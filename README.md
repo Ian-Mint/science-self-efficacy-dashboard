@@ -1,4 +1,4 @@
-# ECE-229-Group5-final-project
+# Science Sel-efficacy Dashboard
 Tool to analyze the High School Longitudinal Study of 2009 (HSLS:09) dataset
 ## Authors: Ian Pegg, Subrato Chakravorty, Yan Sun, Daniel You, Heqian Lu, Kai Wang
 
@@ -17,7 +17,7 @@ Top-level dependencies:
 
 run `pytest --headless` in the top directory.
 
-### Dependencies 
+### Testing dependencies 
 
 Python:
 - dash[testing]

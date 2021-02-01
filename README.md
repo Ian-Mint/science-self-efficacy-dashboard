@@ -1,4 +1,4 @@
-# Science Sel-efficacy Dashboard
+# Science Self-efficacy Dashboard
 Tool to analyze the High School Longitudinal Study of 2009 (HSLS:09) dataset
 ## Authors: Ian Pegg, Subrato Chakravorty, Yan Sun, Daniel You, Heqian Lu, Kai Wang
 

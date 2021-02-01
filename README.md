@@ -2,16 +2,27 @@
 Tool to analyze the High School Longitudinal Study of 2009 (HSLS:09) dataset
 ## Authors: Ian Pegg, Subrato Chakravorty, Yan Sun, Daniel You, Heqian Lu, Kai Wang
 
+Example of our tool for exploring feature importance
+
+![](assets/dash-feature-importance.png)
+
+Our more sophisticated tool that uses random forest to predict student behavior based on user-selectable inputs.
+
+![](assets/dash-predictor.png)
+
 ## Installation
 
 A conda environment is recommended, otherwise Node.js must be installed separately.
 
-Top-level dependencies:
-- dash
-- pandas
-- scikit-learn
-- flask-caching
-- dash_bootstrap_components
+```
+conda env create
+```
+
+## Usage
+
+```
+python -m src
+```
 
 ## Testing
 
